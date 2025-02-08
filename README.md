@@ -7,6 +7,12 @@ a hodgepodge.
 The goal of the repo is to help any person out there that just needs a bit of structure in their job searching 
 and interview prep process. 
 
+## How to Use
+Use this repo in however you feel best suits you. Some recommendations are:
+- fork the repo and make it your own
+- download worksheets and templates to utilize locally
+- just read and *thumbs up*
+
 ## Structure of the Repo
 The repo will be separated by when you may need things - such as searching or interview prep. Make use of the 
 resources whenever you need them.
