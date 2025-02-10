@@ -32,8 +32,15 @@ Postgres and Go to ensure quick and efficient data ingestion. I work well in a f
 myself making strong contributions quickly at ZCorp.*
 
 ### Craft your "*Tell me about yourself.*" with heavy input from the Guiding Questions portion above. 
-#### You are interviewing for *this* job. So tell them about yourself with heavy bias towards what they are looking for. This isn't lying, but tailoring your experience and bubbling up the stuff that matters most.
-- 
+#### You are interviewing for *this* job. So tell them about yourself with heavy bias towards what they are looking for. This isn't lying, but tailoring your experience and bubbling up the stuff that matters most. Structure this as **Intro**, **Past**, and **Future**.
+**EXAMPLE:**
+- I am a hard-working software engineer that utilizes critical thinking and flexibility to quickly and effectively dream, design, and develop software solutions. 
+My experience includes years of delivering tested, quality software, numerous integrations, and implmentations spanning many patterns and architectures that lead to delivering solutions to 
+users and clients.
+- As a former software engineer at ZCorp, I had to design and develop quality and tested software quickly and effectively on an event-driven distributed microservice architecture. My
+work here included becoming a lead resource for the company on our internal big crazy framework, reducing dashboard load times from 90 second timeouts to under a second load times, and eliminating 
+ledger drift in our inventory management systems. I find this past experience has a strong overlap with that of this role's description.
+- Given the responsibilities and skills outlined, I feel that this fit is a great opportunity for me to make contributions and continue to grow as a software engineer.
 
 ### "*Tell me about a time when...*" questions. This range from success stories to times when you struggled. 
 #### The answers for these will come mostly from your experience and projects (question 4 above). You should though filter through these and find applications or similarities with all Guiding Questions.
