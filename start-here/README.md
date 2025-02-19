@@ -17,7 +17,8 @@ a word for it, and then that experience just gets lost in the vague space of "I 
 for like 4 years." I have done it a lot myself. Two quick personal examples: event-driven distributed
 architecture or multi-tenant application design. These two things were things I did but in the moment
 I had literally zero idea that I was doing it. I can remember answering to a recruiter a no for these 
-questions until I sat down with a friend to figure out how to resume better and had my "OH SHIT!" moment.
+questions until I sat down with a friend to figure out how to convey what I have done better and had my
+"OH SHIT!" moment.
 
 That is why I like to have people start with a listing out their experience. Just lay it out there. Then, 
 see if going through that gets you any buzz words. Run that list by somebody else in the tech sphere. Do
