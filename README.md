@@ -4,6 +4,9 @@ road to another job and back on my feet. I compiled a collection of notes from a
 are my creation, some are from random places on the web (I try my hardest to credit or link), and some are
 a hodgepodge. 
 
+I have created some worksheets as a means of guidance. You can utilize those to help you structure what you need
+to do to market yourself and land your next spot. 
+
 The goal of the repo is to help any person out there that just needs a bit of structure in their job searching 
 and interview prep process. 
 

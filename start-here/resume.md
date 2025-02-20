@@ -28,9 +28,9 @@ also found it very useful whilst preparing for interviews, talking with recruite
 all that you used - even the stuff you rarely used - as long as you can speak to the experience.
 
 #### Example:
-Software Dev at Tootleedoo Inc
-- **Skills: Go, Java, Postgres**
-- Some project I did....
+> Software Dev at Tootleedoo Inc
+> - **Skills: Go, Java, Postgres**
+> - Some project I did....
 
 ## Update your resume regurlarly
 Some years ago I came across this [blog post](https://jvns.ca/blog/2017/03/17/career-narrative/) from Julia Evans. (As a quick aside, there is some great
