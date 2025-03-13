@@ -22,3 +22,12 @@ resources whenever you need them.
 
 ## Contributions
 I welcome contributions to help clean up the repo. Please see the contributions guidelines in CONTRIBUTIONS.md.
+
+## TO ADD
+- post interview notes and utilizing them to construct next interview notes
+    - write down all thoughts
+    - anything you learned that could help you
+- how to walk through technical interview
+    - plan phase
+    - coding phase
+    - explaining phase
