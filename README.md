@@ -24,10 +24,13 @@ resources whenever you need them.
 I welcome contributions to help clean up the repo. Please see the contributions guidelines in CONTRIBUTIONS.md.
 
 ## TO ADD
-- post interview notes and utilizing them to construct next interview notes
-    - write down all thoughts
-    - anything you learned that could help you
 - how to walk through technical interview
     - plan phase
     - coding phase
     - explaining phase
+- recommendations for other resources
+    - system design videos
+
+## TODO
+- [ ] work through the TO ADD section
+- [ ] clean up the repository 
